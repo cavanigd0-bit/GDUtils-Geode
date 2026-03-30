@@ -1,11 +1,11 @@
 {
-    "geode": "4.9.0",
-    "version": "v1.5.4",
+    "geode": "5.4.1",
+    "version": "v1.6.0",
     "gd": {
-        "win": "2.2074",
-        "mac": "2.2074",
-        "android": "2.2074",
-        "ios": "2.2074"
+        "win": "2.2081",
+        "mac": "2.2081",
+        "android": "2.2081",
+        "ios": "2.2081"
     },
     "id": "gdutilsdevs.gdutils",
     "name": "GDUtils",
@@ -16,8 +16,8 @@
         "source": "https://github.com/Jouca/GDUtils-Geode"
     },
     "dependencies": {
-        "geode.node-ids": ">=v1.21.1",
-        "jouca.badgesapi": ">=v1.2.4"
+        "geode.node-ids": ">=v1.23.3",
+        "jouca.badgesapi": ">=v1.4.1"
     },
     "api": {
         "include": [ "include/*.hpp" ]
