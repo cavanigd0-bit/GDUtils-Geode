@@ -1,11 +1,11 @@
 {
-    "geode": "4.9.0",
-    "version": "v1.5.4",
+    "geode": "5.11.3",
+    "version": "v1.5.5",
     "gd": {
-        "win": "2.2074",
-        "mac": "2.2074",
-        "android": "2.2074",
-        "ios": "2.2074"
+        "win": "2.2091",
+        "mac": "2.2091",
+        "android": "2.2091",
+        "ios": "2.2091"
     },
     "id": "gdutilsdevs.gdutils",
     "name": "GDUtils",
